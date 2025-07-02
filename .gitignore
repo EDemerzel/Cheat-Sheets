@@ -1,0 +1,16 @@
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.webm
+*.mp4
+*.avi
+*.gif
+*.svg
+*.ico
+*.webp
+*.tiff
+
+.qodo
+.vs
+.vscode
