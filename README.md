@@ -4,12 +4,12 @@ A comprehensive collection of technical reference guides and cheat sheets coveri
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Cheat Sheets](#cheat-sheets)
-- [Categories](#categories)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Cheat Sheets](#-cheat-sheets)
+- [Categories](#%EF%B8%8F-categories)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🔍 Overview
 
